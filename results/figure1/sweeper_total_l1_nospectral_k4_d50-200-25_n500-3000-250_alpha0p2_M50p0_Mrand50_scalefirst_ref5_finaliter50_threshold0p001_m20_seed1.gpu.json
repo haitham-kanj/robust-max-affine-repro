@@ -1,0 +1,17 @@
+{
+  "dtype": "float32",
+  "gpus": [
+    "0",
+    "1",
+    "2",
+    "3"
+  ],
+  "max_gpu_memory_bytes": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0
+  },
+  "note": "NPZ keys and filename match Codes/Algorithms/sweeper.py.",
+  "output": "/home/kanj.7/Documents/RobustMax/RobustMaxAffine/results/sweeper/sweeper_total_l1_nospectral_k4_d50-200-25_n500-3000-250_alpha0p2_M50p0_Mrand50_scalefirst_ref5_finaliter50_threshold0p001_m20_seed1.npz"
+}

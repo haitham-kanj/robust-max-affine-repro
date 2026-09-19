@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+pygpu/
+mainenv/
+.cache/
+.matplotlib-cache/
+logs/
+*.out
+*.err
+.DS_Store
